@@ -3,6 +3,8 @@
     padding: 0px;
     box-sizing: border-box;
     user-select: none;
+    -webkit-user-drag: none;
+    user-drag: none;
 }
 
 .home-button {
