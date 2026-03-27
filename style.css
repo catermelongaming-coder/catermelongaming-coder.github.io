@@ -1,6 +1,8 @@
 body {
     display: grid;
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 p {
@@ -11,5 +13,4 @@ body h1 {
     font-family: "Amatic SC", sans-serif;
     font-weight: 700px;
     font-size: 100px;
-    margin: 0px;
 }
