@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.games {
+    padding: 10px;
+}
+
 body {
     display: grid;
     text-align: center;
