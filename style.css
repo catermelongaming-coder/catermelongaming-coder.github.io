@@ -5,6 +5,7 @@
 }
 
 .home-button {
+    display: block;
     text-decoration: none;
     color: inherit;
     font-family: "Amatic SC", sans-serif;
