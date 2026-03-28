@@ -16,13 +16,13 @@
 }
 
 .home-button:hover {
-    padding: 5px;
     transform-origin: center;
-    transform: scale(1.075);
-    transition: transform 0.1s ease;
+    transform: scale(1.05);
+    transition: transform 0.05s ease;
 }
 
 .home-button {
+    padding: 10px;
     position: absolute;
     display: block;
     text-decoration: none;
