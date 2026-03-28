@@ -39,6 +39,12 @@
     margin: 20px;
 }
 
+.games img:hover {
+    transform-origin: center;
+    transform: scale(1.05);
+    transition: transform 0.05s ease;
+}
+
 body {
     display: grid;
     text-align: center;
