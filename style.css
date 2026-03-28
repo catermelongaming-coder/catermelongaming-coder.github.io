@@ -16,7 +16,7 @@
 }
 
 .home-button:hover {
-    margin: 30px
+    padding: 5px;
     transform-origin: center;
     transform: scale(1.075);
     transition: transform 0.1s ease;
