@@ -7,6 +7,12 @@
     user-drag: none;
 }
 
+.ws-clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .home-button {
     display: block;
     text-decoration: none;
