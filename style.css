@@ -7,6 +7,10 @@
     user-drag: none;
 }
 
+.ws-clock * {
+    font-size: 75px;
+}
+
 .ws-clock {
     display: flex;
     justify-content: center;
