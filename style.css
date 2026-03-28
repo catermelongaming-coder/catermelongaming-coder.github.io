@@ -16,7 +16,9 @@
 }
 
 .home-button:hover {
-    font-size: 68px;
+    transform-origin: center;
+    transform: scale(1.5);
+    transition: transform 0.1s ease;
 }
 
 .home-button {
