@@ -14,4 +14,4 @@ setInterval(() => {
         unit.innerHTML = "minutes";
     }
 
-}, 1000);
+}, 250);
