@@ -6,3 +6,4 @@ setInterval(() => {
     parsedtime += 1;
     time.innerHTML = parsedtime;
 }, 1000);
+
