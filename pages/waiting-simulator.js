@@ -4,5 +4,5 @@ let parsedtime = parseFloat(time.innerHTML);
 setInterval(() => {
     parsedtime += 1;
     time.innerHTML = parsedtime;
-}, 1);
+}, 1000);
 
