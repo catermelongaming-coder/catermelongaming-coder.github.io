@@ -23,11 +23,11 @@
 .home-button:hover {
     transform-origin: center;
     transform: scale(1.05);
-    transition: transform 0.05s ease;
+    transition: transform 0.1s ease;
 }
 
 .home-button {
-    transition: transform 0.3s ease;
+    transition: transform 0.13s ease;
     padding: 5px 10px;
     position: absolute;
     display: block;
@@ -43,12 +43,13 @@
     border-radius: 20px;
     border: 3px solid dimgrey;
     margin: 20px;
+    transition: transform 0.1s ease;
 }
 
 .games img:hover {
     transform-origin: center;
     transform: scale(1.05);
-    transition: transform 0.05s ease;
+    transition: transform 0.13s ease;
 }
 
 body {
