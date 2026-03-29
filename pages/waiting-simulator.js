@@ -10,8 +10,7 @@ setInterval(() => {
         timeEl.innerHTML = time;
         unit.innerHTML = "seconds";
     } else {
-        let minutes = time / 60;
-        timeEl.innerHTML = minutes.toFixed(2);
+        timeEl.innerHTML = Math.floor(time / 60);
         unit.innerHTML = "minutes";
     }
 
