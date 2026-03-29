@@ -1,5 +1,5 @@
-let time = document.querySelector("ws-time");
-let parsedTime = parseFloat(time.innerHTML);
+let time = document.querySelector(".ws-time");
+let parsedtime = parseFloat(time.innerHTML);
 
 setInterval(() => {
     parsedtime += 1;
