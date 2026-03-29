@@ -27,7 +27,8 @@
 }
 
 .home-button {
-    padding: 10px;
+    transition: transform 0.3s ease;
+    padding: 5px 10px;
     position: absolute;
     display: block;
     text-decoration: none;
